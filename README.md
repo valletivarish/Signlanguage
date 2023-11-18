@@ -1,6 +1,6 @@
 Sign Language Recognition 
-Overview
-This project aims to develop a sign language recognition system using computer vision techniques. The system captures hand gestures through a webcam, processes the images to extract hand landmarks, and uses a machine learning model to recognize the corresponding sign language phrases.
+* Overview
+    * This project aims to develop a sign language recognition system using computer vision techniques. The system captures hand gestures through a webcam, processes the images to extract hand landmarks, and uses a machine learning model to recognize the corresponding sign language phrases.
 
 * Components
     1. Data Collection (collect.py)
